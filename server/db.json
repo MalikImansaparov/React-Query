@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "d5fE_asz",
+      "title": "The New Turing Omnibus",
+      "author": "Alexander K. Dewdney"
+    },
+    {
+      "id": "OPhMogym",
+      "title": "The Little Schemer",
+      "author": "Daniel P. Friedman and Matthias Felleisen"
+    },
+    {
+      "id": "fIqWjcWy",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "id": "RfBuM5q0",
+      "body": "{\"title\":\"kj\",\"author\":\"l\"}",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "id": "gB98EMP3",
+      "data": "{\"title\":\"k\",\"author\":\"j\"}",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  ]
+}
